@@ -1,0 +1,9 @@
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/gabrielhs/Escritorio/JAVA1/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
